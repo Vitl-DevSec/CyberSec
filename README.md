@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="assets/hack.gif" alt="hack" width="100%" style="max-width:100%;">
+  <img src=".assets/hack.gif" alt="hack" width="100%" style="max-width:100%;">
 </div>
 
 ---
