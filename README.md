@@ -1,5 +1,11 @@
 # CyberSec
 
+---
+
+![Gif](assets/hack.gif)
+
+---
+
 ## CTF write‑ups | Labs | Notes | Tools
 
 ---
